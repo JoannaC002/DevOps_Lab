@@ -150,4 +150,8 @@ class RegistrationServiceTest {
         assertFalse(result);
         assertFalse(student.isRegistered("CS301"));
     }
+
+    
 }
+
+
